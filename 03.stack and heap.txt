@@ -1,0 +1,23 @@
+// stack kya hota hai jisme primitive datatype aaega jaise
+
+. string
+. number
+. BigInt
+. Symbol
+. Boolean
+. Null
+. Undefined
+
+// heap kya hota hai jisme reference datatype aaega jaise
+
+. Object
+. Array
+. Function
+. Date
+. RegExp
+. Error
+. Map
+. Set
+. WeakMap
+. WeakSet
+. etc.
